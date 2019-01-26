@@ -1,1 +1,1 @@
-# TEST2
+Czasopismo motoryzacyjne z poradami dla kierowców dotyczącymi bezpieczeństwa, techniki i użytkowania auta# TEST2
