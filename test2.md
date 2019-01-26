@@ -1,0 +1,3 @@
+Czasopismo motoryzacyjne z poradami dla kierowców dotyczącymi bezpieczeństwa, techniki i użytkowania auta# TEST2
+Ustawienie klawiatury na język, w którym taka litera występuje. O ile chodzi ci o "ø", zalecam ustawienie sobie duńskiego. W języku duńskim litera ta występuję pod klawiszem z " i '.
+Drugą opcją jest użycie tabeli znaków. Możesz ją znaleźć w akcesoriach systemu. Występują tam wszystkie możliwe do wpisania znaki w systemie Windows.
